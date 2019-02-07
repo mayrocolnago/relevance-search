@@ -23,3 +23,6 @@ function closestof($needle,$haystack) {
   return $choose[0];
 }
 ```
+
+
+Looking for the JavaScript + Jquery version? <a href="https://github.com/mayrocolnago/relevancesearch-js">click here</a>.
